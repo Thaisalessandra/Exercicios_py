@@ -1,4 +1,4 @@
-numb1=int(input("Digite o primeiro número: "))
+    num1= int("Digite o primeiro número:"))
     numb2=int(input("Digite o segundo número: "))
 operacao=str(input("Digite a operação que deseja fazer: "))
 if operacao == "-":
